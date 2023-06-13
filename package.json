@@ -1,0 +1,16 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^27.4.7"
+    },
+    "dependencies": {
+      "inquirer": "^8.0.0"
+    }
+  }
+  
+  
